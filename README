@@ -1,0 +1,5 @@
+My solution to exercise 3 from Accelerated C++. 
+
+You were asked to make a program which takes in any amount of numbers and then print them out in their quartiles.
+
+I've done this using vectors to store the numbers, then sort them using the built in function included in <algorithm>. I then call my own function which prints out numbers which are between 2 indexes input as parameters.
